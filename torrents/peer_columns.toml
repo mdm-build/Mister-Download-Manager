@@ -1,0 +1,4 @@
+[columns]
+show_peers = true
+show_share_ratio = true
+file_selector_dialog = true

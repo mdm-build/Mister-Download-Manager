@@ -2,8 +2,8 @@
 
 High-speed open-source file grabber and torrent client delivering up to 5x faster transfers than IDM across 86 languages with zero ads, trials, or sign-ups.
 
-![MDM Dark Mode](files/Screenshots/images1.webp)
-![MDM Light Mode](files/Screenshots/images2.webp)
+![MDM Dark Mode](Screenshots/images1.webp)
+![MDM Light Mode](Screenshots/images2.webp)
 
 ## Multi-Threaded Engine & Torrent Columns
 
@@ -11,9 +11,9 @@ High-speed open-source file grabber and torrent client delivering up to 5x faste
 - **Built-In Torrent Control**: Select individual files via `Torrent -> Files` and track live `Peers` and `Share ratio` columns.
 - **Browser Extensions**: One-click media and YouTube capture for Chrome, Firefox, Edge, Brave, Opera, Vivaldi, and Safari.
 
-![MDM Transfer Progress](files/Screenshots/images3.webp)
-![MDM YouTube Capture](files/Screenshots/images4.webp)
+![MDM Transfer Progress](Screenshots/images3.webp)
+![MDM YouTube Capture](Screenshots/images4.webp)
 
 ### Browser Integration Setup
 
-Install the companion extension from the Chrome Web Store or Firefox Add-ons, then enable page-title media naming in `files/browser/extension_map.json`.
+Install the companion extension from the Chrome Web Store or Firefox Add-ons, then enable page-title media naming in `browser/extension_map.json`.
